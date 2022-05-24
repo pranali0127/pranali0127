@@ -2,7 +2,8 @@
 - 👋 Hi, I’m Pranali Mate
 - 👀 I’m interested in Programming, data structure, Machine learning, Artificial intelligence 
 - 🌱 I’m currently learning Machine learning
-- I am in 3rd year Engineering student pursuing BE from YCCE
+- Final Year engineering student from YCCE
+- Field : Information Technology 
 ## 📫 How to reach me 
 * Github profile -(https://github.com/pranali0127) 
 * LinkedIn profile - (https://www.linkedin.com/in/pranali-mate-3b879316b)
